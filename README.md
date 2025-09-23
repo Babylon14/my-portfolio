@@ -9,24 +9,27 @@
 ## Мои навыки
 
 - **Backend-разработка**
-  - Python, Django, Flask
+  - Python, FastApi, Django, Flask
 - **DevOps и инфраструктура**
-  - Docker, CI/CD, настройка серверов
+  - Docker, Docker Compose, CI/CD, настройка серверов
 - **Базы данных**
   - PostgreSQL, MySQL, ORM SQLAlchemy
 - **Тестирование**
   - pytest, unittest
 - **Работа с API**
-  - REST, Django Rest Framework, aiohttp
+  - REST, Django Rest Framework, asyncio, aiohttp
 
 ## Мои проекты
 
-- [Дипломная работа "Резервное копирование"](https://github.com/Babylon14/OOP_final_work)
+- ["Резервное копирование"](https://github.com/Babylon14/OOP_final_work)
 - [Телеграм бот ](https://github.com/Babylon14/Store-telebot)
 
 ## Другие работы
-- [Web-scraping](https://github.com/Babylon14/web_scraping)
+- [FastApi-advertisement](https://github.com/Babylon14/FastApi-advertisement)
 - [Flask_accouncements](https://github.com/Babylon14/Flask_announcements_auth) 
+- [Web-scraping](https://github.com/Babylon14/web_scraping)
+
+
 
 ## Фото прилагается
 
