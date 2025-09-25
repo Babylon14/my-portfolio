@@ -26,7 +26,7 @@
 
 ## Другие работы
 - [FastApi - Сервис размещения рекламы купли/продаж + авторизация](https://github.com/Babylon14/FastApi-advertisement)
-- [Flask_- Размещение объявлений + авторизация](https://github.com/Babylon14/Flask_announcements_auth) 
+- [Flask- Размещение объявлений + авторизация](https://github.com/Babylon14/Flask_announcements_auth) 
 - [Web-scraping](https://github.com/Babylon14/web_scraping)
 
 
