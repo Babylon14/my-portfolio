@@ -25,8 +25,8 @@
 - [Телеграм бот ](https://github.com/Babylon14/Store-telebot)
 
 ## Другие работы
-- [FastApi-advertisement](https://github.com/Babylon14/FastApi-advertisement)
-- [Flask_accouncements](https://github.com/Babylon14/Flask_announcements_auth) 
+- [FastApi - Сервис размещения рекламы купли/продаж + авторизация](https://github.com/Babylon14/FastApi-advertisement)
+- [Flask_- Размещение объявлений + авторизация](https://github.com/Babylon14/Flask_announcements_auth) 
 - [Web-scraping](https://github.com/Babylon14/web_scraping)
 
 
