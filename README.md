@@ -24,6 +24,7 @@
 - [Flask- Размещение объявлений + авторизация](https://github.com/Babylon14/Flask_announcements_auth) 
 - [FastAPI - Распознавание лиц](https://github.com/Babylon14/Facial-recognition)
 - [Телеграм бот - Сервис товаров](https://github.com/Babylon14/Store-telebot)
+- [Flask- Сервис обработки изображений](https://github.com/Babylon14/Flask_upscale_image) 
 - ["Резервное копирование"](https://github.com/Babylon14/OOP_final_work)
 - [Web-scraping](https://github.com/Babylon14/web_scraping)
 
