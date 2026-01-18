@@ -20,6 +20,8 @@
   - REST, Django Rest Framework, asyncio, aiohttp
 
 ## Мои проекты
+- [Django/DRF - Cервис управления заказами](https://github.com/Babylon14/Order-service)
+- [FastApi - Cервис рассылок](https://github.com/Babylon14/notification-service)
 - [FastApi - Сервис размещения рекламы купли/продаж + авторизация](https://github.com/Babylon14/FastApi-advertisement)
 - [Flask- Размещение объявлений + авторизация](https://github.com/Babylon14/Flask_announcements_auth) 
 - [FastAPI - Распознавание лиц](https://github.com/Babylon14/Facial-recognition)
